@@ -4,7 +4,7 @@ Donate link: http://www.immense.net/company-menu-plugin-wordpress/
 Tags: company admin menu, business, contact information, business, social media
 Requires at least: 2.5
 Tested up to: 3.4.2
-Stable tag: 1.1.1
+Stable tag: 1.1.2
 
 Give your clients a Company Menu to manage contact information.
 
