@@ -1,0 +1,9 @@
+ /**
+ * @plugin My Company Menu Plugin
+ * @title  Frontend CSS
+ * @author Jason Michael Cross - www.jasonmichaelcross.com
+ * @author Immense Networks - www.immense.net
+ */
+
+ .mcm_social {overflow: hidden;}
+ .mcm_social li {float: right; margin-right: 5px; list-style: none;}
